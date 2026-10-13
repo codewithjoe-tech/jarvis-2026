@@ -1,0 +1,77 @@
+{
+  "session_id": "6c3e48de-3c60-4177-aa4c-806e4c1e2d0e",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hello am I audible to you"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, Joe, I can hear you clearly. It's 1:24 AM on Monday, and I'm ready to assist you with anything you need."
+    },
+    {
+      "role": "user",
+      "content": "already told you"
+    },
+    {
+      "role": "assistant",
+      "content": "You've already told me to call you Joe, and I'll keep that in mind. How can I help you now, Joe?"
+    },
+    {
+      "role": "user",
+      "content": "I already told you not to say this I am ready to assist"
+    },
+    {
+      "role": "assistant",
+      "content": "Joe, what's on your mind?"
+    },
+    {
+      "role": "user",
+      "content": "nothing I just"
+    },
+    {
+      "role": "assistant",
+      "content": "You just wanted to check if I was listening, Joe."
+    },
+    {
+      "role": "user",
+      "content": "yes"
+    },
+    {
+      "role": "assistant",
+      "content": "All good, Joe."
+    },
+    {
+      "role": "user",
+      "content": "Call me sir from now"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll address you as Sir from now on."
+    },
+    {
+      "role": "user",
+      "content": "sometimes you can call me joe"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll use both, Sir and Joe, as you prefer."
+    },
+    {
+      "role": "user",
+      "content": "great"
+    },
+    {
+      "role": "assistant",
+      "content": "Sir."
+    },
+    {
+      "role": "user",
+      "content": "what is the price of bitcoin"
+    },
+    {
+      "role": "assistant",
+      "content": "The current Bitcoin price is $66,496.87, Sir."
+    }
+  ]
+}

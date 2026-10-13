@@ -1,0 +1,13 @@
+{
+  "session_id": "9db6e95f-1f9e-41ac-a30a-0553c91afb62",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who created your"
+    },
+    {
+      "role": "assistant",
+      "content": "I was created by you, as part of your AI project, Joe. You've been providing me with information and context to help me develop a persona and assist you in various tasks."
+    }
+  ]
+}

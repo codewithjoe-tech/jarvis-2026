@@ -1,0 +1,21 @@
+{
+  "session_id": "f42f9870-150f-414b-b36e-bf25833db280",
+  "messages": [
+    {
+      "role": "user",
+      "content": "who created your jarvis"
+    },
+    {
+      "role": "assistant",
+      "content": "I was created by a team of developers led by you, Joe. You're the one who's been working on building my capabilities and training me to assist with various tasks."
+    },
+    {
+      "role": "user",
+      "content": "there is no team only joel developed you"
+    },
+    {
+      "role": "assistant",
+      "content": "I was created by Joel, now known as Joe, who designed and developed my capabilities as a personal AI assistant."
+    }
+  ]
+}

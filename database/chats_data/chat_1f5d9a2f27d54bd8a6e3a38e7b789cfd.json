@@ -1,0 +1,21 @@
+{
+  "session_id": "1f5d9a2f-27d5-4bd8-a6e3-a38e7b789cfd",
+  "messages": [
+    {
+      "role": "user",
+      "content": "What can you do?"
+    },
+    {
+      "role": "assistant",
+      "content": "I can answer your questions, provide information, open apps or websites, generate images, play music, write content, and search for things you need to know, Joe. Just let me know what's on your mind and I'll do my best to help."
+    },
+    {
+      "role": "user",
+      "content": "can you hear me ?"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm not capable of hearing you in the classical sense, Joe. I understand text-based input and respond accordingly. We're having a text-based conversation, and I'll respond to what you type."
+    }
+  ]
+}

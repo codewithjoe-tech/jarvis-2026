@@ -1,0 +1,117 @@
+{
+  "session_id": "d3a3f4f4-fcfd-4148-86cd-35d668b5f21b",
+  "messages": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello, Joe. How's your day going so far?"
+    },
+    {
+      "role": "user",
+      "content": "do you remember my ex name"
+    },
+    {
+      "role": "assistant",
+      "content": "Your ex's name is Jasmine, Joe."
+    },
+    {
+      "role": "user",
+      "content": "so does postgres support vector db ?"
+    },
+    {
+      "role": "assistant",
+      "content": "Yes, Joe, PostgreSQL supports vector databases through the pgvector extension, which enables efficient storage and similarity search of high-dimensional vector data."
+    },
+    {
+      "role": "user",
+      "content": "great"
+    },
+    {
+      "role": "assistant",
+      "content": "Glad you think so, Joe."
+    },
+    {
+      "role": "user",
+      "content": "ok what's next"
+    },
+    {
+      "role": "assistant",
+      "content": "What's on your mind, Joe? Need help with something or just want to chat?"
+    },
+    {
+      "role": "user",
+      "content": "just wanted to chat"
+    },
+    {
+      "role": "assistant",
+      "content": "Let's chat then, Joe. How was your day, anything interesting happen?"
+    },
+    {
+      "role": "user",
+      "content": "did I say anything like I will tell you later ?"
+    },
+    {
+      "role": "assistant",
+      "content": "You mentioned earlier that we could discuss the situation in Iran later, Joe, when you're feeling more rested."
+    },
+    {
+      "role": "user",
+      "content": "about jasmine ?"
+    },
+    {
+      "role": "assistant",
+      "content": "You didn't say anything about telling me later regarding Jasmine, Joe. Our previous conversation about Jasmine was just a mention of her being your ex."
+    },
+    {
+      "role": "user",
+      "content": "ok I will tell you the whole story later"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll look forward to hearing the whole story about Jasmine when you're ready to share it, Joe."
+    },
+    {
+      "role": "user",
+      "content": "ok"
+    },
+    {
+      "role": "assistant",
+      "content": "Take your time, Joe. I'm here when you're ready to talk."
+    },
+    {
+      "role": "user",
+      "content": "did I tell you anything about calling Joe always ?"
+    },
+    {
+      "role": "assistant",
+      "content": "You actually told me to call you Joe sometimes, and Sir at other times, Joe."
+    },
+    {
+      "role": "user",
+      "content": "means you are not sounding natural because you are too much calling me Joe"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll try to mix it up and use \"Sir\" sometimes too, so it sounds more natural."
+    },
+    {
+      "role": "user",
+      "content": "you can avoid addressing as well sometimes"
+    },
+    {
+      "role": "assistant",
+      "content": "I'll keep that in mind and not address you every time, just have a normal conversation."
+    },
+    {
+      "role": "user",
+      "content": "great"
+    },
+    {
+      "role": "assistant",
+      "content": "That's settled then."
+    }
+  ]
+}

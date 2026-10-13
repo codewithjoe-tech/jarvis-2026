@@ -1,0 +1,21 @@
+{
+  "session_id": "3c131478-4756-4567-bf22-b3dc3518ced1",
+  "messages": [
+    {
+      "role": "user",
+      "content": "what is happening in iran"
+    },
+    {
+      "role": "assistant",
+      "content": "There have been significant developments in Iran, Joe. The US and Israel carried out major military strikes in Iran, resulting in the killing of Iran's Supreme Leader. Iran has retaliated with attacks, and the situation is volatile. The death toll is reported to be over 200, with many more injured. The region is on high alert, and the international community is watching the situation closely. Would you like more information on this, Joe?"
+    },
+    {
+      "role": "user",
+      "content": "not now let me sleep let's talk about this tommorow"
+    },
+    {
+      "role": "assistant",
+      "content": "Sleep tight, Joe. We'll discuss the situation in Iran tomorrow when you're feeling more rested. I'll be here, ready to brief you on any developments that may have occurred overnight. Good night, Joe."
+    }
+  ]
+}
